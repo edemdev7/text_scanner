@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "674802210142",
+    "project_id": "imtext",
+    "storage_bucket": "imtext.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674802210142:android:0552a341814965ee336bcf",
+        "android_client_info": {
+          "package_name": "com.example.imagetotext"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA405h-9X8c6F-ym2irM4MPZwH3uIRdo2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
